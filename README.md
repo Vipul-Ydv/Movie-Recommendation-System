@@ -37,6 +37,12 @@ python recommender.py
 ```
 - Prints sample recommendations for a user in the console
 
+## Output Screenshot
+
+Below is a screenshot of the Movie Recommendation System Streamlit app in action:
+
+![Streamlit App Screenshot](photos/movie.png)
+
 ## Using a Custom Dataset (e.g., Bollywood Movies)
 - Download or create a dataset with the columns:
   - `ratings.csv`: `userId,movieId,rating`
